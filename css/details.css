@@ -1,0 +1,21 @@
+@media screen and (max-width: 480px ) {
+/**********************************
+Page: Details
+***********************************/
+
+	#gallery {
+		clear: both;
+		float: none;
+		width: 720px;
+	}
+
+	.details li {
+	  clear: both;
+	  float: none;
+	  width: 100%;
+	  margin: 2.5%;
+	  color: #fff;
+	  background-color: #fff;
+	  color: #bdc3c7;
+	}
+}
